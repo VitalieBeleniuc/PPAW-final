@@ -1,0 +1,5 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<parameters>
+  <setParameter name="IIS Web Application Name" value="vitalie" />
+  <setParameter name="PPAWConnection-Web.config Connection String" value="Data Source=Vittalius\SQLEXPRESS;Initial Catalog=PPAW_Database;Integrated Security=true" />
+</parameters>
